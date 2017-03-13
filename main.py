@@ -6,7 +6,7 @@ from kivy.storage.jsonstore import JsonStore
 import json
 
 # APP CLASS
-class ColorwallApp(App):
+class ColorplaneApp(App):
     pass
 
 # MAIN SCREEN
@@ -33,5 +33,6 @@ class ColorSelectMenu(BoxLayout):
 class DonationMenu(BoxLayout):
     pass
 
-
+if __name__ == '__main__':
+    ColorplaneApp().run()
 
