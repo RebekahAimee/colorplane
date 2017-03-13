@@ -24,13 +24,13 @@ class MainMenu(BoxLayout):
     pass
 
 # SUBMENUS
-class PaletteSelectMenu(BoxLayout):
+class ColorMenu(BoxLayout):
     pass
 
-class ColorSelectMenu(BoxLayout):
+class PaletteMenu(BoxLayout):
     pass
 
-class DonationMenu(BoxLayout):
+class DonateMenu(BoxLayout):
     pass
 
 if __name__ == '__main__':
