@@ -1,0 +1,14 @@
+Phone app for anxiety... paint the screen a color
+You paint the whole screen with whatever color the app assigns you, and then you start over 
+with a different color.
+If you like one of the colors, the app can save an image of the color and its hex code to 
+your gallery. If you dislike one of the colors, you can press a button for a new one and 
+the app won't use that color again. You can also skip colors if you don't like a combination
+or whatever.
+Other options: colorblindness; blue mode (for red/green colorblindness), timeout mode (for
+if you can't find that last pixel or whatever, if you don't get it within ten minutes it'll
+just switch to a different color). Different palettes--brights, pastels, muted, natural,
+gem tones...
+Blacklist certain colors, whitelist others to get palettes that include them
+I want to make this free, with no ads but a donation box.
+I think I'll call it "Color Wall" or something.
